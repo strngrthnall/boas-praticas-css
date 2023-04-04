@@ -1,0 +1,28 @@
+.header {
+  padding: 16px 2px;
+  background-color: #355366;
+  color: #C0DAEA;
+}
+
+.links-acesso {
+  padding: 16px 2px;
+
+}
+
+.links-acesso__menu {
+  margin-bottom: 32px;
+}
+
+.menu-title {
+  margin-bottom: 8px;
+  color: #545F66;
+}
+
+.link {
+  color: #5D91B3;
+  margin-right: 8px;
+}
+
+.discription {
+  margin-bottom: 16px;
+}
